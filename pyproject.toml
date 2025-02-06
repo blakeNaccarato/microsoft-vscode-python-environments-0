@@ -1,0 +1,4 @@
+[project]
+name = "microsoft-vscode-python-environments-0"
+version = "0.0.0"
+requires-python = ">=3.12"

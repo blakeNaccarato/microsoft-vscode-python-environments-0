@@ -1,0 +1,6 @@
+{
+    "name": "microsoft-vscode-python-environments-0",
+    "icon": "pulse",
+    "extensions": "[{\"identifier\":{\"id\":\"ms-python.debugpy\",\"uuid\":\"4bd5d2c9-9d65-401a-b0b2-7498d9f17615\"},\"displayName\":\"Python Debugger\",\"version\":\"2024.14.0\",\"applicationScoped\":false},{\"identifier\":{\"id\":\"ms-python.python\",\"uuid\":\"f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5\"},\"displayName\":\"Python\",\"version\":\"2024.23.2025012401\",\"applicationScoped\":false},{\"identifier\":{\"id\":\"ms-python.vscode-pylance\",\"uuid\":\"364d2426-116a-433a-a5d8-a5098dc3afbd\"},\"displayName\":\"Pylance\",\"version\":\"2025.2.1\",\"applicationScoped\":false},{\"identifier\":{\"id\":\"ms-python.vscode-python-envs\",\"uuid\":\"b41d8e8a-b6d4-4202-8f07-7189bdda81be\"},\"displayName\":\"Python Environments\",\"version\":\"0.3.10371610\",\"applicationScoped\":false}]",
+    "globalState": ""
+}
